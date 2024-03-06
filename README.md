@@ -1,6 +1,6 @@
 ![image](https://github.com/skyhi-github/CSX_Test/assets/64489355/0fb46c2b-0aed-417b-954a-17c9f89ad318)
 
-## *[Testing in Cambodia Securities Exchange's Software Developer Job](http://csx.com.kh/about/opportunities/viewPost.do)*
+## *[Testing in Cambodia Securities Exchange's Software Developer Job](http://csx.com.kh/about/opportunities/viewPost.do?MNCD=8020&postId=605)*
 
 **1 Find index of array** 
     
